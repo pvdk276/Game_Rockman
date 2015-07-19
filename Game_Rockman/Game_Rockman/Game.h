@@ -4,6 +4,8 @@
 #include "d3d9.h"
 #include "GameWindow.h"
 #include "Timer.h"
+#include "Graphic.h"
+#include "Input.h"
 
 class CGame
 {

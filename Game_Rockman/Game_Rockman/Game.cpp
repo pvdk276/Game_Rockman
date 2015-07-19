@@ -19,7 +19,7 @@ int CGame::Init(HINSTANCE hInstance)
 		OutputDebugString("[Game.cpp] Cannot init pGameWindow.");
 		return 0;
 	}
-	/*
+
 	// Khởi tạo đối tượng đồ họa của game.
 	if (!CGraphic::GetInstance()->Init(pGameWindow->GetHWND()))
 	{
@@ -34,7 +34,7 @@ int CGame::Init(HINSTANCE hInstance)
 		OutputDebugString("[Game.cpp] Cannot init CInput.");
 		return 0;
 	}
-
+	/*
 	//Khởi tạo đối tượng quản lí GameState.
 	if (!CGameStateManager::GetInstance()->Init(new CMenuState()))
 	{
