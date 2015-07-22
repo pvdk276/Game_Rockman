@@ -265,10 +265,11 @@ Summary:   File chứa các hằng số và các biến môi trường
 #define ID_TEXTURE_MAP2_TILES				102
 #define ID_TEXTURE_MAP3_TILES				103
 
-#define ID_TEXTURE_MENU_BACKGROUND			6969
-#define ID_TEXTURE_PLAYER1_TEXTURE			6970
-#define ID_TEXTURE_CHOOSE_BUTTON			6971
-#define ID_TEXTURE_LIFE						6972
+#define ID_TEXTURE_ICON_ROCK_MAN			6969
+#define ID_TEXTURE_ICON_ROCK_MAN_GRAY		6970
+#define ID_TEXTURE_BACKGROUND_2				6971
+#define ID_TEXTURE_BACKGROUND_3				6972
+#define ID_TEXTURE_BACKGROUND_4 			6973
 
 #pragma endregion
 

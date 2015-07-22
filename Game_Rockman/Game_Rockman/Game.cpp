@@ -34,14 +34,12 @@ int CGame::Init(HINSTANCE hInstance)
 		OutputDebugString("[Game.cpp] Cannot init CInput.");
 		return 0;
 	}
-	/*
 	//Khởi tạo đối tượng quản lí GameState.
 	if (!CGameStateManager::GetInstance()->Init(new CMenuState()))
 	{
 		OutputDebugString("[Game.cpp] Cannot init CGameStateManager.");
 		return 0;
 	}
-	*/
 	//	Khởi tạo đối tượng timer
 	m_pTimer = CTimer::GetInstance();
 	m_pTimer->SetMaxFps((float)GAME_FPS);
@@ -68,7 +66,7 @@ void CGame::Run()
 			{
 				m_pTimer->EndCount();
 				// Get Stage hiện tại và run.
-				//CGameStateManager::GetInstance()->GetCurrentState()->Run(m_pTimer->GetTime());
+				CGameStateManager::GetInstance()->GetCurrentState()->Run(m_pTimer->GetTime());
 			}
 		}
 	}

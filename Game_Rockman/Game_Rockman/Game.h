@@ -6,6 +6,7 @@
 #include "Timer.h"
 #include "Graphic.h"
 #include "Input.h"
+#include "GameStateManager.h"
 
 class CGame
 {
