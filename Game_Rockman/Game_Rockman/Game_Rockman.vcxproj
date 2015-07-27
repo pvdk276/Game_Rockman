@@ -90,6 +90,7 @@
     <ClInclude Include="Graphic.h" />
     <ClInclude Include="Input.h" />
     <ClInclude Include="MenuState.h" />
+    <ClInclude Include="PlayState.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="ResourcesManager.h" />
     <ClInclude Include="Sprite.h" />
@@ -106,6 +107,7 @@
     <ClCompile Include="Graphic.cpp" />
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="MenuState.cpp" />
+    <ClCompile Include="PlayState.cpp" />
     <ClCompile Include="ResourcesManager.cpp" />
     <ClCompile Include="Sprite.cpp" />
     <ClCompile Include="Texture.cpp" />

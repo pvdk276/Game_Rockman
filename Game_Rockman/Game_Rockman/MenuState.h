@@ -9,6 +9,7 @@ Summary:   Định nghĩa lớp CMenuState.
 #include "ResourcesManager.h"
 #include "GameStateManager.h"
 #include "Global.h"
+#include "Sprite.h"
 //#include "ScoreState.h"
 //#include "DSUtil.h"
 
@@ -26,6 +27,7 @@ private:
 	CTexture* m_pRockManIconGray;
 	CTexture* m_pLine1;
 	CTexture* m_pLine2;
+	CTexture* m_pGameTitle;
 	D3DXVECTOR2 m_pos;
 	D3DXVECTOR2 m_v;
 	//CSound* m_pSound;

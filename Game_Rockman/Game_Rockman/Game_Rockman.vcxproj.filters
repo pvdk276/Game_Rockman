@@ -25,6 +25,12 @@
     <Filter Include="Source Files\GameState">
       <UniqueIdentifier>{9a17df2d-29da-4547-b0ca-f6ed6e2e262c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\GameObject">
+      <UniqueIdentifier>{cb14a459-7b4a-453d-8111-f8dbfba024a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject">
+      <UniqueIdentifier>{658029eb-f423-441f-aa5b-05b07078590e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -72,6 +78,9 @@
     <ClInclude Include="GameInfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PlayState.h">
+      <Filter>Header Files\GameState</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WinMain.cpp">
@@ -115,6 +124,9 @@
     </ClCompile>
     <ClCompile Include="GameInfo.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayState.cpp">
+      <Filter>Source Files\GameState</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

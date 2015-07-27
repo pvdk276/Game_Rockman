@@ -46,3 +46,4 @@
 6971	1	1	1	Resources\Sprites\background_2.png
 6972	1	1	1	Resources\Sprites\background_3.png
 6973	1	1	1	Resources\Sprites\background_4.png
+6974	1	1	1	Resources\Sprites\game_title_1.png

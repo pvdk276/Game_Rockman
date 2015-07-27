@@ -10,8 +10,8 @@ Summary:   File chứa các hằng số và các biến môi trường
 #include <cmath>
 
 #define GAME_NAME "Game_Rockman"
-#define SCREEN_WIDTH 800
-#define SCREEN_HEIGHT 480
+#define SCREEN_WIDTH 255
+#define SCREEN_HEIGHT 230
 #define GAME_FPS 60
 #define GRAVITY  -600.0f
 
@@ -270,6 +270,7 @@ Summary:   File chứa các hằng số và các biến môi trường
 #define ID_TEXTURE_BACKGROUND_2				6971
 #define ID_TEXTURE_BACKGROUND_3				6972
 #define ID_TEXTURE_BACKGROUND_4 			6973
+#define ID_TEXTURE_GAME_TITLE 				6974
 
 #pragma endregion
 
