@@ -10,8 +10,8 @@ Summary:   File chứa các hằng số và các biến môi trường
 #include <cmath>
 
 #define GAME_NAME "Game_Rockman"
-#define SCREEN_WIDTH 255
-#define SCREEN_HEIGHT 230
+#define SCREEN_WIDTH 512
+#define SCREEN_HEIGHT 400
 #define GAME_FPS 60
 #define GRAVITY  -600.0f
 
@@ -24,7 +24,7 @@ Summary:   File chứa các hằng số và các biến môi trường
 #define ID_WATER	 				1
 #define ID_SBOX						3
 
-#define ID_BILL						10
+#define ID_ROCKMAN					10
 #define ID_TILE						11
 #define ID_RUNNING_MAN				12
 #define ID_ITEM_BLOCK               13
@@ -89,23 +89,23 @@ Summary:   File chứa các hằng số và các biến môi trường
 
 #pragma region Các hằng số ID của sprite
 
-#define	ID_SPRITE_BILL_STAND				0
-#define	ID_SPRITE_BILL_STAND_FIRE			1
-#define ID_SPRITE_BILL_STAND_ABOVE			2
-#define ID_SPRITE_BILL_FIRE_ABOVE			3
-#define ID_SPRITE_BILL_LAY					4
-#define ID_SPRITE_BILL_RUN					5
-#define ID_SPRITE_BILL_RUN_TOP				6
-#define ID_SPRITE_BILL_RUN_BOT				7
-#define ID_SPRITE_BILL_RUN_FIRE				8
-#define ID_SPRITE_BILL_JUMP					9
-#define ID_SPRITE_BILL_FALL					10
+#define	ID_SPRITE_ROCKMAN_STAND				0
+#define	ID_SPRITE_ROCKMAN_STAND_FIRE		1
+#define ID_SPRITE_ROCKMAN_PREPARE_RUN		2
+#define ID_SPRITE_ROCKMAN_RUN				3
+#define ID_SPRITE_ROCKMAN_RUN_FIRE			4
+#define ID_SPRITE_ROCKMAN_JUMP				5
+#define ID_SPRITE_ROCKMAN_JUMP_FIRE			6
+#define ID_SPRITE_ROCKMAN_STAIR				7
+#define ID_SPRITE_ROCKMAN_STAIR_FIRE		8
+#define ID_SPRITE_ROCKMAN_STAIR_END			9
+#define ID_SPRITE_ROCKMAN_START 			10
 #define ID_SPRITE_BILL_SWIM_HIDE			11
 #define ID_SPRITE_BILL_SWIM_STAND			12
 #define	ID_SPRITE_BILL_SWIM_FIRE            13
 #define	ID_SPRITE_BILL_SWIM_LOOK_TOP        14
 #define	ID_SPRITE_BILL_SWIM_LOOK_ABOVE		15
-#define	ID_SPRITE_BILL_SWIM_GRASS_UP		16
+#define	ID_SPRITE_BILL_SWIM_GRASS_UP	sz	16
 #define ID_SPRITE_BILL_DYING				17
 #define ID_SPRITE_BILL_DIE					18
 

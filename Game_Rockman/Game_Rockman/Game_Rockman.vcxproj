@@ -84,6 +84,7 @@
     <ClInclude Include="BaseGameState.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="GameInfo.h" />
+    <ClInclude Include="GameObject.h" />
     <ClInclude Include="GameStateManager.h" />
     <ClInclude Include="GameWindow.h" />
     <ClInclude Include="Global.h" />
@@ -102,6 +103,7 @@
     <ClCompile Include="BaseGameState.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameInfo.cpp" />
+    <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="GameStateManager.cpp" />
     <ClCompile Include="GameWindow.cpp" />
     <ClCompile Include="Graphic.cpp" />

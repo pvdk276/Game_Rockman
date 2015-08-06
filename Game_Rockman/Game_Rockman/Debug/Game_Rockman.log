@@ -1,39 +1,31 @@
-﻿Build started 7/27/2015 3:27:34 PM.
-     1>Project "E:\Game_Rockman\Game_Rockman\Game_Rockman\Game_Rockman.vcxproj" on node 2 (Build target(s)).
+﻿Build started 8/6/2015 9:44:16 PM.
+     1>Project "D:\Game_Rockman\Game_Rockman\Game_Rockman\Game_Rockman.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MenuState.cpp
-         MenuState.cpp
-         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(89): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(95): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(100): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(100): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(104): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(104): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(109): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(109): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(113): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(113): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-     1>e:\game_rockman\game_rockman\game_rockman\menustate.cpp(118): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt GameObject.cpp PlayState.cpp
+         PlayState.cpp
+         GameObject.cpp
+         Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib d3dx9.lib d3d9.lib dinput8.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.lib" /MACHINE:X86 Debug\Game_Rockman.res
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib d3dx9.lib d3d9.lib dinput8.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.lib" /MACHINE:X86 Debug\Game_Rockman.res
          Debug\BaseGameState.obj
          Debug\Game.obj
          Debug\GameInfo.obj
+         Debug\GameObject.obj
          Debug\GameStateManager.obj
          Debug\GameWindow.obj
          Debug\Graphic.obj
          Debug\Input.obj
          Debug\MenuState.obj
+         Debug\PlayState.obj
          Debug\ResourcesManager.obj
          Debug\Sprite.obj
          Debug\Texture.obj
          Debug\Timer.obj
          Debug\ViewPort.obj
          Debug\WinMain.obj
-         Game_Rockman.vcxproj -> E:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.exe
-     1>Done Building Project "E:\Game_Rockman\Game_Rockman\Game_Rockman\Game_Rockman.vcxproj" (Build target(s)).
+         Game_Rockman.vcxproj -> D:\Game_Rockman\Game_Rockman\Debug\Game_Rockman.exe
+     1>Done Building Project "D:\Game_Rockman\Game_Rockman\Game_Rockman\Game_Rockman.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.25
+Time Elapsed 00:00:11.29

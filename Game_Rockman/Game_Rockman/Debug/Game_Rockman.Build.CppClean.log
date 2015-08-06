@@ -1,49 +1,33 @@
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\vc120.pdb
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\vc120.idb
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\basegamestate.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\game.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\gameinfo.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\gamestatemanager.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\gamewindow.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\graphic.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\input.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\menustate.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\resourcesmanager.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\sprite.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\texture.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\timer.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\viewport.obj
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\winmain.obj
-d:\my project\.project\game_rockman\game_rockman\debug\game_rockman.ilk
-d:\my project\.project\game_rockman\game_rockman\debug\game_rockman.exe
-d:\my project\.project\game_rockman\game_rockman\debug\game_rockman.pdb
-d:\my project\.project\game_rockman\game_rockman\game_rockman\debug\game_rockman.res
-e:\game_rockman\game_rockman\game_rockman\debug\basegamestate.obj
-e:\game_rockman\game_rockman\game_rockman\debug\game.obj
-e:\game_rockman\game_rockman\game_rockman\debug\gameinfo.obj
-e:\game_rockman\game_rockman\game_rockman\debug\gamestatemanager.obj
-e:\game_rockman\game_rockman\game_rockman\debug\gamewindow.obj
-e:\game_rockman\game_rockman\game_rockman\debug\graphic.obj
-e:\game_rockman\game_rockman\game_rockman\debug\input.obj
-e:\game_rockman\game_rockman\game_rockman\debug\menustate.obj
-e:\game_rockman\game_rockman\game_rockman\debug\resourcesmanager.obj
-e:\game_rockman\game_rockman\game_rockman\debug\sprite.obj
-e:\game_rockman\game_rockman\game_rockman\debug\texture.obj
-e:\game_rockman\game_rockman\game_rockman\debug\timer.obj
-e:\game_rockman\game_rockman\game_rockman\debug\viewport.obj
-e:\game_rockman\game_rockman\game_rockman\debug\winmain.obj
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.res
-e:\game_rockman\game_rockman\game_rockman\debug\vc120.idb
-e:\game_rockman\game_rockman\game_rockman\debug\vc120.pdb
-e:\game_rockman\game_rockman\debug\game_rockman.pdb
-e:\game_rockman\game_rockman\debug\game_rockman.exe
-e:\game_rockman\game_rockman\debug\game_rockman.ilk
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\cl.command.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\cl.read.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\cl.write.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link.command.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link.read.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link.write.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\rc.command.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\rc.read.1.tlog
-e:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\rc.write.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\vc140.pdb
+d:\game_rockman\game_rockman\game_rockman\debug\vc140.idb
+d:\game_rockman\game_rockman\game_rockman\debug\basegamestate.obj
+d:\game_rockman\game_rockman\game_rockman\debug\game.obj
+d:\game_rockman\game_rockman\game_rockman\debug\gameinfo.obj
+d:\game_rockman\game_rockman\game_rockman\debug\gameobject.obj
+d:\game_rockman\game_rockman\game_rockman\debug\gamestatemanager.obj
+d:\game_rockman\game_rockman\game_rockman\debug\gamewindow.obj
+d:\game_rockman\game_rockman\game_rockman\debug\graphic.obj
+d:\game_rockman\game_rockman\game_rockman\debug\input.obj
+d:\game_rockman\game_rockman\game_rockman\debug\menustate.obj
+d:\game_rockman\game_rockman\game_rockman\debug\playstate.obj
+d:\game_rockman\game_rockman\game_rockman\debug\resourcesmanager.obj
+d:\game_rockman\game_rockman\game_rockman\debug\sprite.obj
+d:\game_rockman\game_rockman\game_rockman\debug\texture.obj
+d:\game_rockman\game_rockman\game_rockman\debug\timer.obj
+d:\game_rockman\game_rockman\game_rockman\debug\viewport.obj
+d:\game_rockman\game_rockman\game_rockman\debug\winmain.obj
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.res
+d:\game_rockman\game_rockman\debug\game_rockman.pdb
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\cl.command.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\cl.read.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\cl.write.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link-cvtres.read.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link-cvtres.write.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link-rc.read.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link-rc.write.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link.command.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link.read.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\link.write.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\rc.command.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\rc.read.1.tlog
+d:\game_rockman\game_rockman\game_rockman\debug\game_rockman.tlog\rc.write.1.tlog

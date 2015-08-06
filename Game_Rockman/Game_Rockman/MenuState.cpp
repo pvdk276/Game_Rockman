@@ -123,6 +123,6 @@ void CMenuState::End()
 {
 	m_bFinished = true;
 	delete m_pNextState;
-	//m_pNextState = new CScoreState();
+	//m_pNextState = new CPlaysa();
 	CGameStateManager::GetInstance()->ChangeState(m_pNextState);
 }
